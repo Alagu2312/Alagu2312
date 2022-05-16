@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alagu2312
 - 👀 I’m interested in java,react js,c++,c
-- 🌱 I’m currently learning ...c+,c,react js
+- 🌱 I’m currently learning ...c++,c,react js
 - 📫 How to reach me alagu.23ec@liet.ac.in
 
 <!---
